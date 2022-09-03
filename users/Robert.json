@@ -1,0 +1,12 @@
+{
+	"Name": "Robert",
+	"Age": 23,
+	"Contact": "2342412",
+	"Company": "",
+	"Address": {
+		"City": "Banglades",
+		"State": "Kartana",
+		"Country": "Idia",
+		"Pincode": 542234
+	}
+}

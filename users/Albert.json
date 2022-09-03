@@ -1,0 +1,12 @@
+{
+	"Name": "Albert",
+	"Age": 31,
+	"Contact": "082131231",
+	"Company": "",
+	"Address": {
+		"City": "California",
+		"State": "Idia",
+		"Country": "Indonesia",
+		"Pincode": 23451
+	}
+}

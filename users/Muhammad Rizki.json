@@ -1,0 +1,12 @@
+{
+	"Name": "Muhammad Rizki",
+	"Age": 24,
+	"Contact": "2341234124",
+	"Company": "",
+	"Address": {
+		"City": "Lhokseumawe",
+		"State": "Aceh",
+		"Country": "Indonesia",
+		"Pincode": 23451
+	}
+}
